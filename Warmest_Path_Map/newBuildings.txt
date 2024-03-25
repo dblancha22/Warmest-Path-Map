@@ -1,0 +1,11 @@
+0   Bond Hall
+1   DeBartolo Hall
+2   Duncan Student Center
+3   Fitzpatrick Hall of Engineering
+4   Hesburgh Library
+5   Jordan Hall of Science
+6   Main Building
+7   Nieuwland Science Hall
+8   North Dining Hall
+9   O'Shaughnessy Hall
+10  South Dining Hall
